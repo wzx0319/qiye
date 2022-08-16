@@ -6,5 +6,11 @@ public class GitTest {
         System.out.println("sadhaih");
         System.out.println("gogogo");
         System.out.println("client checkout");
+        
+        
+        System.out.println("client checkout");
+        
+        
+        System.out.println("client checkout");
     }
 }
